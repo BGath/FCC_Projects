@@ -1,0 +1,1 @@
+This is a vault of all the projects I worked on through FreeCodeCamp. As a beginner at coding, I look forward to hearing any tips from anyone checking out my profile, and reading this. Thanks!
